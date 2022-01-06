@@ -8,6 +8,7 @@ proc show_help() =
     echo "base64 command input output\n"
     echo "Command:"
     echo "  -c\t\tencode"
+    echo "  -c:safe\tsafe-encode"
     echo "  -d\t\tdecode\n"
     echo "Arguments:"
     echo "  input\t\torigin file path"
